@@ -2,5 +2,7 @@
 
 # region: global
 
+# cnameStrategy: Follow
+
 # dnsZones:
 # - domain.name
